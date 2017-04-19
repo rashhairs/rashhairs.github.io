@@ -2,10 +2,10 @@
 layout: default
 ---
 
+<img src="/assets/JRBcat.jpg" style="-webkit-filter: grayscale(100%)"/>
 
+[Twitter](http://twitter.com/sriharshasheshn)/[Mail](mailto:sriharsha.sheshn@gmail.com)/[Blog](http://blog.sriharsha.space)/[GitHub](http://github.com/rashhairs)
 
-![Shu Uesugi](https://www.gravatar.com/avatar/b868d84bbe2ed30ec45c9253e1c1cefe.jpg?s=200)
- [Twitter](http://twitter.com/chibicode)/[GitHub](http://github.com/chibicode)/[G+](https://plus.google.com/110325199858284431541?rel=author)
 
 [Solo](http://chibicode.github.io/solo) is a Jekyll theme that supports **single-page websites** only, but supports them well. Yes, it's responsive.
 

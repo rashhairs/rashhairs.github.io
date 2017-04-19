@@ -1,10 +1,11 @@
 # Site settings
-title: Solo, a Jekyll Theme
-tag_text: molo
-description: Solo is a Jekyll theme that supports single-page websites only, but supports them well. Yes, it’s responsive.
+title: Hi, I am Harsha
+tag_text: About Sriharsha Sheshanarayana
+description: This is a short about me page of Sriharsha Sheshanarayana
 
 # Build settings
 markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
+twitter_username:     sriharshasheshn
