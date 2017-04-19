@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<img src="/assets/JRBcat.jpg" style="-webkit-filter: grayscale(100%)"/>
+<img src="/assets/profilephoto_large.jpg" style="-webkit-filter: grayscale(100%)"/>
 
 [Twitter](http://twitter.com/sriharshasheshn)/[Mail](mailto:sriharsha.sheshn@gmail.com)/[Blog](http://blog.sriharsha.space)/[GitHub](http://github.com/rashhairs)
 
