@@ -1,5 +1,5 @@
 # Site settings
-title: Sriharsha Sheshanarayana | Aerospace Engineer
+title: Sriharsha | Aerospace Engineer
 tag_text: About Sriharsha Sheshanarayana
 description: This is a short about me page of Sriharsha Sheshanarayana
 
@@ -8,4 +8,4 @@ markdown: kramdown
 exclude: ["README.md"]
 sass:
   style: compressed
-twitter_username:     sriharshasheshn
+twitter_username:     sriharsha_space
